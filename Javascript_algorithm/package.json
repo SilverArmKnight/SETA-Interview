@@ -1,0 +1,20 @@
+{
+  "name": "javascript_algorithm",
+  "version": "1.0.0",
+  "description": "SETA test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Duy Anh Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
